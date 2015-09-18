@@ -71,6 +71,8 @@ public class FtcOpModeRegister implements OpModeRegister {
      */
     manager.register("NullOp", NullOp.class);
 
+    // Klaas zijn ding
+    manager.register("VisOpMode", VisOpmode.class);
 
     /*
      * The following example op modes are designed to work with a K9-style robot.
